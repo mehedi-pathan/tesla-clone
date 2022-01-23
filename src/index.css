@@ -10,6 +10,10 @@ body {
   overflow-x: hidden;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* animation for arrow button */
 @keyframes animateDown {
   0%, 20%, 50%, 80%, 100% {
